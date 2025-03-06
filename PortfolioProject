@@ -102,9 +102,9 @@ I assume lower GDP will be linked to lower life expectancy.
 There's a very limited amount of data, but I expect the continent will also be connected to life expectancy.
 After perusing the data, it also seems like year of birth is positively correlated with life expectancy.
 
-Average_GDP_Chile = 2.31 * 10^11
-Average_GDP_China = 4.78 * 10^12
-Average_GDP_Germany = 3.09 * 10^12
-Average_GDP_Mexico  = 9.77 * 10^11
-Average_GDP_USA     = 1.41 * 10^13
-Average_GDP_Zimbabwe = 9.06 * 10^9
+Average_GDP_Chile = 2.31 * 10^11          Average_Life_Expectancy_Chile = 78.94
+Average_GDP_China = 4.78 * 10^12          Average_Life_Expectancy_China = 74.26
+Average_GDP_Germany = 3.09 * 10^12        Average_Life_Expectancy_Germany = 79.66
+Average_GDP_Mexico  = 9.77 * 10^11        Average_Life_Expectancy_Mexico = 75.72
+Average_GDP_USA     = 1.41 * 10^13        Average_Life_Expectancy_USA    = 78.06
+Average_GDP_Zimbabwe = 9.06 * 10^9        Average_Life_Expectancy_Zimbabwe = 50.09
