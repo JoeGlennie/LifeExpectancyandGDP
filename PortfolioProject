@@ -114,3 +114,19 @@ Chile_Life_Expectancy_2015 = 80.5         Germany_Life_Expectancy_2015 = 81     
 
 China_Life_Expectancy_2000 = 71.7         Mexico_Life_Expectancy_2000 =  74.8                Life_Expectancy_Zimbabwe_2000 = 46.0
 China_Life_Expectancy_2015 = 76.1         Mexico_Life_Expectancy_2015 =  76.7                Life_Expectancy_Zimbabwe_2015 = 60.7
+
+Chile_GDP_2000 = 7.79 * 10^10             Mexico_GDP_2000 = 6.84 * 10^11                     USA_GDP_2000 = 1.03 * 10^13
+Chile_GDP_2015 = 2.43 * 10^11             Mexcio_GDP_2015 = 1.15 * 10^12                     USA_GDP_2015 = 1.81 * 10^13
+
+China_GDP_2000 = 1.21 * 10^12             Germany_GDP_2000 = 1.95 * 10^12                    Zimbabwe_GDP_2000 = 6.69 * 10^9
+China_GDP_2015 = 1.11 * 10^13             Germany_GDP_2015 = 3.38 * 10^12                    Zimbabwe_GDP_2015 = 1.63 * 10^10
+
+
+Avg_Chile_GDP_Growth = 4.52%              Avg_Mexico_GDP_Growth  = 2.70%                     Avg_USA_GDP_Growth = 2.87%
+Avg_China_GDP_Growth = 5.94%              Avg_Germany_GDP_Growth = 2.82%                     Avg_Zimbabwe_GDP_Growth = 3.90%
+
+I wasn't able to import charts from Microsoft Excel, so I'll just list some conclusions.
+
+From 2000 to 2015, the average life expectancy and GDP increased in every country. The average life expectancy increased the least in Mexico and the most in Zimbabwe. 
+
+
