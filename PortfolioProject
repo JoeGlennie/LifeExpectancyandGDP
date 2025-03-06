@@ -101,10 +101,16 @@ Project Goals
 I assume lower GDP will be linked to lower life expectancy. 
 There's a very limited amount of data, but I expect the continent will also be connected to life expectancy.
 After perusing the data, it also seems like year of birth is positively correlated with life expectancy.
+ 
+Average_GDP_Chile = 2.31 * 10^11          Average_Life_Expectancy_Chile = 78.94              Chile_continent = South America
+Average_GDP_China = 4.78 * 10^12          Average_Life_Expectancy_China = 74.26              China_continent = Asia
+Average_GDP_Germany = 3.09 * 10^12        Average_Life_Expectancy_Germany = 79.66            Germany_continent = Europe
+Average_GDP_Mexico  = 9.77 * 10^11        Average_Life_Expectancy_Mexico = 75.72             Mexico_continent = North America
+Average_GDP_USA     = 1.41 * 10^13        Average_Life_Expectancy_USA    = 78.06             USA_continent   = North America 
+Average_GDP_Zimbabwe = 9.06 * 10^9        Average_Life_Expectancy_Zimbabwe = 50.09           Zimbabwe_continent = Africa
 
-Average_GDP_Chile = 2.31 * 10^11          Average_Life_Expectancy_Chile = 78.94
-Average_GDP_China = 4.78 * 10^12          Average_Life_Expectancy_China = 74.26
-Average_GDP_Germany = 3.09 * 10^12        Average_Life_Expectancy_Germany = 79.66
-Average_GDP_Mexico  = 9.77 * 10^11        Average_Life_Expectancy_Mexico = 75.72
-Average_GDP_USA     = 1.41 * 10^13        Average_Life_Expectancy_USA    = 78.06
-Average_GDP_Zimbabwe = 9.06 * 10^9        Average_Life_Expectancy_Zimbabwe = 50.09
+Chile_Life_Expectancy_2000 = 77.3         Germany_Life_Expectancy_2000 = 78                  Life_Expectancy_USA_2000 = 76.8
+Chile_Life_Expectancy_2015 = 80.5         Germany_Life_Expectancy_2015 = 81                  Life_Expectancy_USA_2015 = 79.3
+
+China_Life_Expectancy_2000 = 71.7         Mexico_Life_Expectancy_2000 =  74.8                Life_Expectancy_Zimbabwe_2000 = 46.0
+China_Life_Expectancy_2015 = 76.1         Mexico_Life_Expectancy_2015 =  76.7                Life_Expectancy_Zimbabwe_2015 = 60.7
